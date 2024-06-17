@@ -1,3 +1,0 @@
-# References
-
-*octopass 1
